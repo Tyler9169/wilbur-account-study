@@ -37,3 +37,8 @@
 .modern-hero h1 .hero-name-cn{font-family:WenboEditorial,"Songti SC",serif;font-weight:900;font-size:clamp(64px,6.9vw,102px);letter-spacing:-.045em;line-height:1.14;color:#f3efe5}
 @media(max-width:900px){.modern-hero h1 .hero-name-cn{font-size:72px}}
 @media(max-width:480px){.modern-hero h1 .hero-name-cn{font-size:60px}}
+
+.liked-works table{min-width:650px}.liked-works td:first-child{width:126px;padding:16px}.liked-cover{display:block;width:104px;border:0!important}.liked-cover img{display:block;width:104px;height:139px;object-fit:cover;border-radius:5px;border:1px solid #514a3c}.liked-works td:nth-child(2){min-width:240px}.liked-works td:nth-child(3),.liked-works td:nth-child(4){white-space:nowrap}.liked-cover:hover img{border-color:#d5bd87}
+@media(max-width:620px){.liked-works table{min-width:570px}.liked-works td:first-child{width:92px;padding:12px}.liked-cover,.liked-cover img{width:76px}.liked-cover img{height:101px}.liked-works td:nth-child(2){min-width:210px}}
+
+.liked-works td{vertical-align:middle}
