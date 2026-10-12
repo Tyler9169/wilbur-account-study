@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="470" viewBox="0 0 1100 470" role="img" aria-label="近90天商业表现：播放中位数10万，完播率3.2%，互动率2.1%，平均点赞5851、评论695、转发406">
+<rect width="1100" height="470" fill="#151512"/>
+<g font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif">
+<text x="40" y="45" fill="#d5bd87" font-size="14" letter-spacing="2">近90天 · 星图视频</text><text x="1060" y="45" text-anchor="end" fill="#999487" font-size="13">截至 2026.10.11</text>
+<path d="M40 68H1060 M360 95V424 M715 95V424" stroke="#39382f"/>
+<text x="40" y="113" fill="#b6b0a1" font-size="16">播放中位数</text><text x="36" y="210" fill="#f3efe5" font-size="86" font-weight="500">10<tspan font-size="28" dx="8">万</tspan></text>
+<text x="40" y="295" fill="#999487" font-size="15">发布作品</text><text x="40" y="335" fill="#e3d9c0" font-size="29">5+</text>
+<text x="192" y="295" fill="#999487" font-size="15">平均时长</text><text x="192" y="335" fill="#e3d9c0" font-size="29">65.3<tspan font-size="15" dx="5">秒</tspan></text>
+<text x="40" y="411" fill="#8b877b" font-size="12">指派商单 · 排除营销流量</text>
+<text x="399" y="113" fill="#b6b0a1" font-size="16">观看与互动</text>
+<text x="399" y="184" fill="#999487" font-size="15">完播率</text><text x="672" y="187" text-anchor="end" fill="#f3efe5" font-size="32">3.2%</text><rect x="399" y="207" width="274" height="6" rx="3" fill="#302e26"/><rect x="399" y="207" width="88" height="6" rx="3" fill="#d5bd87"/>
+<text x="399" y="280" fill="#999487" font-size="15">互动率</text><text x="672" y="283" text-anchor="end" fill="#f3efe5" font-size="32">2.1%</text><rect x="399" y="303" width="274" height="6" rx="3" fill="#302e26"/><rect x="399" y="303" width="58" height="6" rx="3" fill="#d5bd87"/>
+<text x="399" y="339" fill="#79776d" font-size="11">0</text><text x="673" y="339" text-anchor="end" fill="#79776d" font-size="11">10%</text>
+<text x="755" y="113" fill="#b6b0a1" font-size="16">平均互动次数</text>
+<text x="755" y="171" fill="#999487" font-size="14">点赞</text><text x="1060" y="173" text-anchor="end" fill="#f3efe5" font-size="24">5,851</text><rect x="755" y="188" width="305" height="7" rx="3" fill="#302e26"/><rect x="755" y="188" width="297.4" height="7" rx="3" fill="#d5bd87"/>
+<text x="755" y="244" fill="#999487" font-size="14">评论</text><text x="1060" y="246" text-anchor="end" fill="#f3efe5" font-size="24">695</text><rect x="755" y="261" width="305" height="7" rx="3" fill="#302e26"/><rect x="755" y="261" width="35.3" height="7" rx="3" fill="#b5aa8e"/>
+<text x="755" y="317" fill="#999487" font-size="14">转发</text><text x="1060" y="319" text-anchor="end" fill="#f3efe5" font-size="24">406</text><rect x="755" y="334" width="305" height="7" rx="3" fill="#302e26"/><rect x="755" y="334" width="20.6" height="7" rx="3" fill="#918b7c"/>
+<text x="755" y="369" fill="#79776d" font-size="11">0</text><text x="1060" y="369" text-anchor="end" fill="#79776d" font-size="11">6,000 次</text>
+</g></svg>
