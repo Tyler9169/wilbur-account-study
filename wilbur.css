@@ -42,3 +42,17 @@
 @media(max-width:620px){.liked-works table{min-width:570px}.liked-works td:first-child{width:92px;padding:12px}.liked-cover,.liked-cover img{width:76px}.liked-cover img{height:101px}.liked-works td:nth-child(2){min-width:210px}}
 
 .liked-works td{vertical-align:middle}
+
+/* Balanced homepage title and account image */
+.modern-hero:has(.hero-profile){max-width:1680px;margin:0 auto;box-sizing:border-box;grid-template-columns:minmax(0,.76fr) minmax(0,1.24fr);gap:clamp(32px,4vw,64px);padding:56px max(4.5vw,24px) 60px;align-items:center}
+.modern-hero .hero-copy{padding:0;min-width:0}
+.modern-hero h1 .hero-name-cn{font-size:clamp(62px,5.2vw,84px);line-height:1.1;letter-spacing:-.035em}
+.modern-hero h1 .hero-name-en{font-size:clamp(88px,7.6vw,120px);line-height:1.02;margin:12px 0 0 -4px;letter-spacing:-.055em}
+.modern-hero .hero-line{font-size:clamp(19px,1.5vw,22px);line-height:1.6;margin:28px 0 0;letter-spacing:.01em;max-width:24em}
+.modern-hero .hero-actions{margin-top:28px!important;gap:22px}
+.modern-hero .hero-gallery-inner{height:auto!important;min-height:0!important}
+.modern-hero .hero-profile-shot{display:block;width:100%;aspect-ratio:1270/620!important;padding:0;background:#151922;border-radius:8px}
+.modern-hero .hero-profile-shot img{object-fit:contain!important}
+.modern-hero .hero-account-link{margin-top:12px}
+@media(max-width:900px){.modern-hero:has(.hero-profile){grid-template-columns:1fr;gap:32px;padding:40px 28px 44px}.modern-hero h1 .hero-name-cn{font-size:64px}.modern-hero h1 .hero-name-en{font-size:96px}.modern-hero .hero-line{font-size:20px}.modern-hero .hero-profile{width:100%;max-width:none}}
+@media(max-width:480px){.modern-hero:has(.hero-profile){padding:32px 20px 36px;gap:28px}.modern-hero h1 .hero-name-cn{font-size:56px}.modern-hero h1 .hero-name-en{font-size:82px}.modern-hero .hero-line{font-size:18px;margin-top:22px}.modern-hero .hero-actions{margin-top:24px!important;gap:18px}}
