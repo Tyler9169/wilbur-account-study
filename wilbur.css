@@ -23,3 +23,6 @@
 #business .evidence-figure img{display:block;max-height:none;aspect-ratio:auto}
 @media(max-width:900px){.modern-hero:has(.hero-profile){grid-template-columns:1fr;gap:32px;padding:38px 28px 42px}.modern-hero .hero-copy{padding:0}.modern-hero h1 .hero-name-cn{font-size:56px}.modern-hero h1 .hero-name-en{font-size:88px}.modern-hero .hero-line{margin-top:20px;font-size:13px}.modern-hero .hero-actions{margin-top:24px!important}.modern-hero .hero-profile{max-width:720px}.modern-hero .hero-profile-shot{max-height:none}}
 @media(max-width:480px){.modern-hero:has(.hero-profile){padding:30px 20px 36px;gap:28px}.modern-hero h1 .hero-name-cn{font-size:44px}.modern-hero h1 .hero-name-en{font-size:72px}.modern-hero .hero-line{font-size:12px;letter-spacing:.03em}.modern-hero .hero-actions{gap:18px}.modern-hero .start-reading{padding:10px 14px;gap:18px}.modern-hero .hero-random{font-size:11px}}
+
+#audience .evidence-figure .image-zoom{display:block;width:100%;padding:0;border:0;background:transparent}
+#audience .evidence-figure img{display:block;width:100%;height:auto;max-height:none;aspect-ratio:auto}
