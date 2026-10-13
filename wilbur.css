@@ -113,4 +113,8 @@
 @media(min-width:1000px){.modern-hero:has(.hero-profile){grid-template-columns:minmax(340px,.68fr) minmax(0,1.32fr);gap:24px}}
 
 /* Match the forward slant of Wilbur while preserving the Chinese letterforms. */
-.modern-hero h1 .hero-name-cn{transform:skewX(-12deg);transform-origin:left bottom}
+.modern-hero h1{--hero-name-size:clamp(72px,8.4vw,124px)}
+.modern-hero h1 .hero-name-cn,.modern-hero h1 .hero-name-en{font-size:var(--hero-name-size);line-height:1.05}
+.modern-hero h1 .hero-name-cn{transform:skewX(-15deg);transform-origin:left bottom}
+@media(max-width:900px){.modern-hero h1{--hero-name-size:88px}}
+@media(max-width:480px){.modern-hero h1{--hero-name-size:72px}}
